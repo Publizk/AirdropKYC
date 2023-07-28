@@ -1,5 +1,9 @@
 # AirdropKYC
 
+## Refs
+
+[Gitcoin Passport X Galxe 反女巫NFT](https://twitter.com/Galxe/status/1684599885826580480?s=20): [博客](https://www.gitcoin.co/blog/gitcoin-passport-galxe) 2023.07.01 ~ 
+
 ## Gitcoin Passport
 ### NFT
 > 0.69分
@@ -16,7 +20,7 @@ Mint:
 随缘投票：
 - https://snapshot.org/#/0x88188.eth/proposal/0xcd0875b8963b2ad566468adf027cab4966139731ceedf0603c45dbd2223e7654
 
-### Guild
+### [Guild](https://guild.xyz/explorer)
 > 0.69分
 
 只需Discord:
@@ -38,7 +42,7 @@ Mint:
 - [Base](https://guild.xyz/buildonbase)
 - [SpaceFi](https://guild.xyz/spacefi)
 
-### Civic Pass
+### [Civic Pass](https://getpass.civic.com/status?chain=polygon)
 > 1 + 2.25分
 
 ### Hypercerts
