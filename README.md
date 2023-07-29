@@ -23,18 +23,23 @@ Pick some:
 ### [Guild](https://guild.xyz/explorer)
 > 0.69 points
 
-Discord Only:
+Discord Only (pick 3 randomly):
 - [ZetaChain](https://guild.xyz/zetachain)
+- [Stargate](https://guild.xyz/stargate)
+- [Layer3](https://guild.xyz/layer3)
 - [Quest3](https://guild.xyz/quest3)
 - [injective](https://guild.xyz/injective)
 
-Basic suite:
+Basic suite (pick 4 randomly):
+- [SyncSwap](https://guild.xyz/syncswap)
 - [Star](https://guild.xyz/starprotocol)
 - [Carv](https://guild.xyz/carv)
 - [Cashmere](https://guild.xyz/cashmerelabs)
+- [Burnt](https://guild.xyz/burnt)
 - [Taho](https://guild.xyz/cashmerelabs)
+- [CyberConnect](https://guild.xyz/cyberconnect)
 
-Plus Github:
+Plus Github (pick any):
 - [Guild](https://guild.xyz/our-guild)
 - [Polygon](https://guild.xyz/polygon)
 
