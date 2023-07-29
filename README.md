@@ -46,9 +46,13 @@ Plus following:
 > 1 + 2.25 points
 
 ### [Hypercerts](https://hypercerts.org/)
-> 0.69 points
+> 0.69 points 
 
-- Connect Optimism Wallet
+- Connect Optimism Wallet, and change to **Optimism**
 - Create * 2
-- Cost 0.1 OP_ETH * 2
+- Cost about $0.1 OP_ETH * 2
 - Hold for 15+ days
+
+Ref:
+- Free images: [Unsplash](https://unsplash.com/)
+- Icon search: [Noun Project](https://thenounproject.com/)
