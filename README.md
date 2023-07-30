@@ -86,5 +86,5 @@ Plus following:
 - Hold for 15+ days
 
 Ref:
-- Free images: [Pixels](https://www.pixels.com), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/)
+- Free images: [Pexels](https://www.pexels.com), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/)
 - Icon search: [Flaticon](https://www.flaticon.com/), [Icons8](https://icons8.com/),  [Free Pik](https://www.freepik.com/icons), [Noun Project](https://thenounproject.com/)
