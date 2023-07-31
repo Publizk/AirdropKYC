@@ -2,7 +2,9 @@
 
 ## Refs
 
-[Gitcoin Passport X Galxe NFT](https://twitter.com/Galxe/status/1684599885826580480?s=20): [Blog](https://www.gitcoin.co/blog/gitcoin-passport-galxe) 2023.07.01 ~ 
+[Gitcoin Passport X Galxe NFTs](https://galxe.com/gitcoinpassport/campaign/GCdiRU7XDM): 
+- [Twitter](https://twitter.com/Galxe/status/1684599885826580480?s=20), [Blog](https://www.gitcoin.co/blog/gitcoin-passport-galxe)
+- 2023.07.31 ~ 2023.08.11
 
 ## Gitcoin Passport
 ### NFT
@@ -29,9 +31,9 @@ Pick some:
 - 【MATIC】[MATIC/ETH/BTC?](https://snapshot.org/#/meiridi.eth/proposal/0x3a2fb0220da2b5f295bd23ef8cc13c8104eddefd6430039c8e684dc66c7287b0) (100+)
 
 * MATIC DAOs
+  * https://snapshot.org/#/14cat.eth
   * https://snapshot.org/#/meiridi.eth
   * https://snapshot.org/#/abcdcba.eth
-  * https://snapshot.org/#/14cat.eth
   * https://snapshot.org/#/zys888.eth
 
 * ETH DAOs
@@ -49,7 +51,7 @@ Do first:
 - [SyncSwap](https://guild.xyz/syncswap) * 2: Basic + [Follow](https://twitter.com/syncswap)
 - [Galxe](https://guild.xyz/galxe) * 2: Basic + [Follow](https://twitter.com/galxe)
 - [Cashmere](https://guild.xyz/cashmerelabs) * 2: Basic + [Follow](https://twitter.com/CashmereLabs)
-- [Taho](https://guild.xyz/cashmerelabs) * 2: Basic + [Follow](https://twitter.com/taho_xyz)
+- [Taho](https://guild.xyz/taho) * 2: Basic + [Follow](https://twitter.com/taho_xyz)
 - [EraLend](https://guild.xyz/eralend) * 2: Basic + Guild Member
 - [KaratDAO](https://guild.xyz/karatdao) * 2: Basic + Holder
 
