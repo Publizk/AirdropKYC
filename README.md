@@ -31,16 +31,30 @@ Pick some:
 - 【MATIC】[MATIC/ETH/BTC?](https://snapshot.org/#/meiridi.eth/proposal/0x3a2fb0220da2b5f295bd23ef8cc13c8104eddefd6430039c8e684dc66c7287b0) (100+)
 
 * MATIC DAOs
-  * https://snapshot.org/#/14cat.eth
-  * https://snapshot.org/#/meiridi.eth
-  * https://snapshot.org/#/abcdcba.eth
-  * https://snapshot.org/#/zys888.eth
+  * https://snapshot.org/#/abcdcba.eth (1.7K)
+  * https://snapshot.org/#/abcdcba.eth (1.7k)
+  * https://snapshot.org/#/14cat.eth (1.4K)
+  * https://snapshot.org/#/zys888.eth (1.4k)
+  * https://snapshot.org/#/zirouziyu.eth (1.1K)
+  * https://snapshot.org/#/%E2%80%A28099.eth (1k)
+  * https://snapshot.org/#/boboat321.eth (8xx)
+  * https://snapshot.org/#/meiridi.eth (4xx)
+  * https://snapshot.org/#/biteren.eth (3xx)
+  * https://snapshot.org/#/zwei02.eth (1xx)
+  * https://snapshot.org/#/772904081.eth (1xx)
+  * https://snapshot.org/#/jabari-smith.eth (6x)
+  * https://snapshot.org/#/vivox.eth (5x)
 
 * ETH DAOs
-  * https://snapshot.org/#/yequ.eth
+  * https://snapshot.org/#/yequ.eth (9xx)
 
 * BNB DAOs
-  * https://snapshot.org/#/eth6888.eth
+  * https://snapshot.org/#/eth6888.eth (7xx)
+  * https://snapshot.org/#/%E2%9C%93%E2%9C%93%E2%9C%93%E2%9C%93%E2%9C%93.eth (6xx)
+
+* Others
+  * https://snapshot.org/#/nibajie.eth (5xx)
+  * https://snapshot.org/#/ftpcrypto.eth (4x)
 
 
 ### [Guild](https://guild.xyz/explorer)
