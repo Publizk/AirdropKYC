@@ -32,7 +32,6 @@ Pick some:
 
 * MATIC DAOs
   * https://snapshot.org/#/abcdcba.eth (1.7K)
-  * https://snapshot.org/#/abcdcba.eth (1.7k)
   * https://snapshot.org/#/14cat.eth (1.4K)
   * https://snapshot.org/#/zys888.eth (1.4k)
   * https://snapshot.org/#/zirouziyu.eth (1.1K)
