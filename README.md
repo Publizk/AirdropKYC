@@ -107,5 +107,6 @@ Ref:
 ## PhiLand
 
 ### ETH Holder
+[At least 0.1 ETH](https://quest.philand.xyz/items/0x3D8C06e65ebf06A9d40F313a35353be06BD46038/100301) (1000XP)
 
-[At least 1 ETH](https://quest.philand.xyz/items/0x3D8C06e65ebf06A9d40F313a35353be06BD46038/100302)
+[At least 1 ETH](https://quest.philand.xyz/items/0x3D8C06e65ebf06A9d40F313a35353be06BD46038/100302) (1000XP)
