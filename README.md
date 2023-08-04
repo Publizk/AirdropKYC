@@ -12,6 +12,12 @@
 
 Mint:
 - [mint.fun](https://mint.fun/feed/free?chain=ethereum)
+  * 需要先增加Base网络
+  * [Chaindot](https://mint.fun/ethereum/0x74afeDbac8d8f07BdCaC06E685B2D7b62cAd4485) (73K )
+  * [Zerion DNA 1.0](https://mint.fun/ethereum/0x932261f9Fc8DA46C4a22e31B45c4De60623848bF) (75K gas limit)
+  * [Radi Fairy](https://mint.fun/ethereum/0x0A791089ACf48912a9Cfde00E3A6aFe9eDBC3221) (77K gas limit)
+  * [Glowsticks](https://mint.fun/ethereum/0x7BB824EceD0a777C17ac0000B0E7f8e036F1538f) (78K gas limit)
+  * [Flower Fairy](https://mint.fun/ethereum/0x4790E4cbaC1AdD9278554211663aCd14Cf45f543) (81K for 3)
 
 ### Snapshot
 > 1.41 points
@@ -106,7 +112,13 @@ Ref:
 
 ## PhiLand
 
-### ETH Holder
+**ETH Holder** 
 [At least 0.1 ETH](https://quest.philand.xyz/items/0x3D8C06e65ebf06A9d40F313a35353be06BD46038/100301) (1000XP)
-
 [At least 1 ETH](https://quest.philand.xyz/items/0x3D8C06e65ebf06A9d40F313a35353be06BD46038/100302) (1000XP)
+
+**Snapshot**
+[1 vote](https://quest.philand.xyz/items/0x3D8C06e65ebf06A9d40F313a35353be06BD46038/100801) (1000XP)
+[3 votes](https://quest.philand.xyz/items/0x3D8C06e65ebf06A9d40F313a35353be06BD46038/100802) (1000XP)
+[5 votes](https://quest.philand.xyz/items/0x3D8C06e65ebf06A9d40F313a35353be06BD46038/100803) (2000XP)
+[10 votes](https://quest.philand.xyz/items/0x3D8C06e65ebf06A9d40F313a35353be06BD46038/100804) (2000XP)
+[30 votes](https://quest.philand.xyz/items/0x3D8C06e65ebf06A9d40F313a35353be06BD46038/100805) (3000XP)
