@@ -13,7 +13,7 @@
 Mint:
 - [mint.fun](https://mint.fun/feed/free?chain=ethereum)
   * 需要先增加定制化网络（如Base），否则可能不能自动切换至ETH主网
-  * **[!fundrop](https://mint.fun/fundrop?ref=0x7dE1f5eB781edc662472436eEBc09d331FB73261)**(123k gas limit)
+  * **[!fundrop](https://mint.fun/fundrop)**(123k gas limit)
   * [Chaindot](https://mint.fun/ethereum/0x74afeDbac8d8f07BdCaC06E685B2D7b62cAd4485) (73K gas limit)
   * [Zerion DNA 1.0](https://mint.fun/ethereum/0x932261f9Fc8DA46C4a22e31B45c4De60623848bF) (75K gas limit)
   * [Radi Fairy](https://mint.fun/ethereum/0x0A791089ACf48912a9Cfde00E3A6aFe9eDBC3221) (77K gas limit)
