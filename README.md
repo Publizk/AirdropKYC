@@ -1,4 +1,4 @@
-# AirdropKYC
+# Airdrop KYC
 
 ## Refs
 
